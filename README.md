@@ -12,7 +12,7 @@
   <img align="left" alt="Altair's Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
 </a>
 
-![](visitor-badge.glitch.me/badge?page_id=dev-altair)
+![visitors](https://page-views.glitch.me/badge?page_id=dev-altair)
 
 <br />
 
